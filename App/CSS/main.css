@@ -1,17 +1,9 @@
-/* 
-Google Font :  
-    - main Titles :'Akaya Telivigala', cursive;
-    - Pragraph : 'Akaya Telivigala', cursive;
-*/
 html {
   scroll-behavior: smooth;
 }
 
+h2,
 p {
-  font-family: 'Akaya Telivigala', cursive;
-}
-
-h2 {
   font-family: 'Akaya Telivigala', cursive;
 }
 
