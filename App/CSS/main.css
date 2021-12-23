@@ -45,6 +45,11 @@ p {
   width: 90px;
 }
 
+#carouselExampleFade {
+  margin-top: 73px;
+  background-color: #111;
+}
+
 /*=========
   about us */
 
