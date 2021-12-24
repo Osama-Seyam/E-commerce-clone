@@ -50,6 +50,12 @@ p {
   background-color: #111;
 }
 
+@media (max-width:530px) {
+  .navbar {
+    width: 535px;
+  }
+}
+
 /*=========
   about us */
 
@@ -109,6 +115,16 @@ p {
 
 .contactUs .contactHeader {
   color: white;
+}
+
+.contactUs .map {
+  margin-top: 30px;
+}
+
+@media (max-width:530) {
+  .contactUs .map {
+    width: 530px;
+  }
 }
 
 /*=========
