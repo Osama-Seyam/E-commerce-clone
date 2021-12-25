@@ -50,11 +50,7 @@ p {
   background-color: #111;
 }
 
-@media (max-width:530px) {
-  .navbar {
-    width: 535px;
-  }
-}
+
 
 /*=========
   about us */
