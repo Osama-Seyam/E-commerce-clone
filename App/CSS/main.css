@@ -117,6 +117,10 @@ p {
   margin-top: 30px;
 }
 
+.map img {
+  width: 100%;
+}
+
 @media (max-width:530) {
   .contactUs .map {
     width: 530px;
