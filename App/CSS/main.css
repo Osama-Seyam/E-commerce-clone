@@ -113,17 +113,17 @@ p {
   color: white;
 }
 
-.contactUs .map {
-  margin-top: 30px;
-}
-
-.map img {
+.map iframe {
+  border: 0;
   width: 100%;
+  height: 100%
 }
 
-@media (max-width:530) {
-  .contactUs .map {
-    width: 530px;
+@media (max-width: 990px) {
+  .map {
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 30px;
   }
 }
 
