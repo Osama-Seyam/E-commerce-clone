@@ -84,6 +84,15 @@ p {
   border: 1px solid black;
 }
 
+@media (max-width: 600px) {
+  .gallary .nav {
+
+    margin-right: 25px;
+    margin-left: 25px;
+    width: auto;
+  }
+}
+
 .gallary .nav .nav-link {
   color: white;
 }
